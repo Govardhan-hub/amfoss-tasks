@@ -1,0 +1,9 @@
+Task 1
+![Screenshot 1](first_key.png)
+Task 2
+![Screenshot 2](Enter_the_wormhole.png)
+![Screenshot 3](Enter_the_wormhole_1.png)
+Task 3
+![Screenshot 4](Habitable_planet.png)
+Task 4
+![Screenshot 5](message.puzzle.png)
