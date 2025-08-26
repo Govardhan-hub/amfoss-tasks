@@ -1,0 +1,5 @@
+key 1 : T25lIGxhc3QgdGFzaywgYW5kIHlvdSdsbCBoYXZlIHN1Y2Nlc3NmdWxseSBjb21- One last task, and you'll have successfully combase64 
+key 2 : wbGV0ZWQgdGhlIFRlcm1pbmFsIEh1bnQhIFJ1biBncmF2aXR5- You have completed the Terminal Hunt! Run gravity
+key 3 : ZSwgYWsKISfKZCBhIHcmVlbmNvb3ogDGgc29sdXRpbM1zLm1k- and add a screenshot to solutions.md
+
+
